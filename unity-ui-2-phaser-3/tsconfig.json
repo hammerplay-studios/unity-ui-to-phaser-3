@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "./lib/",
+    "target": "es5",
+    "sourceMap": true,
+    "allowJs": true,
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "types":[
+      "jasmine",
+      "Phaser"
+    ],
+    "typeRoots": [
+      "node_modules/@types",
+      "node_modules/phaser/types"
+    ]
+  },
+  "include": [
+      "src/**/*.ts",
+      "node_modules/@types",
+      "**/*.spec.ts"
+  ],
+  "exclude": [
+    ".git",
+    "node_modules"
+  ]
+}

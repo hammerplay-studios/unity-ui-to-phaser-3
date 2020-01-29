@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "ui-assets-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 992,
+				"h": 955
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "window.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 977,
+						"h": 533
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 977,
+						"h": 533
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 977,
+						"h": 533
+					}
+				},
+				{
+					"filename": "top-left-panel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 212
+					},
+					"frame": {
+						"x": 1,
+						"y": 536,
+						"w": 519,
+						"h": 212
+					}
+				},
+				{
+					"filename": "replay-button.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 429,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 429,
+						"h": 118
+					},
+					"frame": {
+						"x": 522,
+						"y": 536,
+						"w": 429,
+						"h": 118
+					}
+				},
+				{
+					"filename": "resume-button.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 429,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 429,
+						"h": 118
+					},
+					"frame": {
+						"x": 522,
+						"y": 656,
+						"w": 429,
+						"h": 118
+					}
+				},
+				{
+					"filename": "sound-off-button.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 429,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 429,
+						"h": 118
+					},
+					"frame": {
+						"x": 1,
+						"y": 750,
+						"w": 429,
+						"h": 118
+					}
+				},
+				{
+					"filename": "sound-on-button.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 429,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 429,
+						"h": 118
+					},
+					"frame": {
+						"x": 432,
+						"y": 776,
+						"w": 429,
+						"h": 118
+					}
+				},
+				{
+					"filename": "square.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 863,
+						"y": 776,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "pause.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 87,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 87,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 870,
+						"w": 87,
+						"h": 84
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c6f163da37eb7864757c7b47f88a2ed4:ed27fa82bc28e33acd6390f0f0e3f4e9:6b38bfe9ba354282b24930bf04e4bdb3$"
+	}
+}
